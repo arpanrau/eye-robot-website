@@ -1,6 +1,6 @@
 # Site settings
-title: Project Pages
-description: "An Integrated Scientific Blogging Template"
+title: Eye-Robot
+description: "Explore Olin remotely"
 url: "https://halthewise.github.io"
 
 
@@ -10,7 +10,7 @@ url: "https://halthewise.github.io"
 baseurl: "/eye-robot-website"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
+#logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
 github_username:  projectpages
