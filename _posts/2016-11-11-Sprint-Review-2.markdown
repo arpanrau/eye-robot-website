@@ -1,7 +1,7 @@
 ---
 layout:     gslides
 title:      Sprint Review 2
-author:     
+# author:     Eric
 tags: 		
 subtitle:  	MVP for the Library
 category:   sprint-review
