@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      New Post
+title:      Formatting Tips
 author:     Ahmet Cecen
-tags: 		post template
+tags: 		test
 subtitle:  	Some Short Description of Post
 category:  project1
 ---
@@ -58,7 +58,7 @@ category:  project1
 
 Hold your pointer clicked over the image to expand the view.
 
-![Description](http://projectpages.github.io/project-pages/img/Logo_Fairy_Tail_right.png)
+![Description]({{ site.baseurl }}/img/Logo_Fairy_Tail_right.png)
 
 ## Code
 
@@ -107,12 +107,7 @@ Head over to the [documentation page](http://projectpages.github.io/ppguide/) fo
 
 # Some Advanced Features
 
-## Data Projector
-
-<embed src="/project-pages/2016/05/02/New-Projector/" height="500px" width="100%">
-
 ## STL
 
 <div align="center"><script src="https://embed.github.com/view/3d/projectpages/project-pages/gh-pages/stl/test.stl"></script></div>
-
 

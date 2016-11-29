@@ -1,0 +1,22 @@
+---
+layout:     post
+title:      Post template
+author:     Eric
+tags: 		test
+subtitle:  	Some Short Description of Post
+category:   project1
+---
+<!-- Start Writing Below in Markdown -->
+
+<!-- Table of Contents -->
+
+* TOC
+{:toc}
+
+
+
+
+
+
+<!-- [Link to Google](https://www.google.com) -->
+<!-- ![Image embed]({{ site.baseurl }}/img/Logo_Fairy_Tail_right.png) -->
