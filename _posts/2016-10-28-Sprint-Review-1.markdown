@@ -1,6 +1,6 @@
 ---
 layout:     gslides
-title:      Sprint Review 1
+title:      Sprint 1
 # author:     Eric
 tags: 		
 subtitle:  	Pivoting into Telepresence

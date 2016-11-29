@@ -1,6 +1,6 @@
 ---
 layout:     gslides
-title:      Sprint Review 2
+title:      Sprint 2
 # author:     Eric
 tags: 		
 subtitle:  	MVP for the Library
@@ -11,8 +11,6 @@ category:   sprint-review
 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQD4b-YE17ESdS7082HWNQrv6eXjqZPW6zOFu8wyNbf6jWwPRlE3e-wO5PSyX2jk1dGyYkUsNW1Lovb/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1170" height="681" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-
 
 
 
