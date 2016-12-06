@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      Post template
-author:     Eric
-tags: 		test
+title:      Electrical System
+author:     ---
+tags: 		design
 subtitle:  	Some Short Description of Post
 category:   project1
 
-published: false
+published: true
 ---
 <!-- Start Writing Below in Markdown -->
 
